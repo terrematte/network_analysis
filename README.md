@@ -1,7 +1,9 @@
 # Network Analysis Course 
-## IMD1155 - ANÁLISE DE REDES - T01 (UFRN/IMD)
-### Prof. Patrick Terrematte -- Universidade Federal do Rio Grande do Norte
-<center><img width="600" src="https://drive.google.com/uc?export=view&id=1zaJgdwhGABOD9vsG9r_vHshAAD2UZipQ"></center>
+## IMD1155 - ANÁLISE DE REDES - T01 
+### Prof. Patrick Terrematte 
+Universidade Federal do Rio Grande do Norte (UFRN) / Instituto Metrópole Digital (IMD)
+
+<center><img width="650" src="https://drive.google.com/uc?export=view&id=1zaJgdwhGABOD9vsG9r_vHshAAD2UZipQ"></center>
 <center>
 
 ### Topics
@@ -27,7 +29,7 @@ All notebooks are produced by:
 
 
 ### References
-- :books: Network Science by Albert-László Barabási, 2015. [[Link]](http://networksciencebook.com/).
+- :books: Network Science by Albert-László Barabási, 2015. [[Link]](http://networksciencebook.com/)
 - :books: The Atlas for the Aspiring Network Scientist, 2021.  [[Link]](https://www.networkatlas.eu/index.htm)
 - :books: Complex Network Analysis in Python, 2018.  [[Link]](https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python/)
 - :books: Caldarelli, Guido; Chessa, Alessandro. Data science and complex networks - Real cases studies with Python, 2016.
