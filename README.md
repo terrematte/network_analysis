@@ -19,8 +19,9 @@ Universidade Federal do Rio Grande do Norte (UFRN) / Instituto Metrópole Digita
  - Case of Studies:
 	1. Game of Thrones
 	2. Airport
-	3. Wikipedia
+	3.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/network_analysis/blob/main/notebooks/05-wikipedia.ipynb) [Wikipedia](https://github.com/terrematte/network_analysis/blob/main/notebooks/05-wikipedia.ipynb)
 	4. Twitter
+
 
 All notebooks are produced by:
 
