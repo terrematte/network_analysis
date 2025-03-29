@@ -1,0 +1,21 @@
+name: lectures
+channels:
+  # -  defaults
+  # - conda-forge
+  - conda-forge/label/cf202003
+  - conda-forge/label/broken
+dependencies:
+  - pip
+  # - graph-tool
+  - pip:
+    - networkx
+    - git+https://github.com/GiulioRossetti/cdlib.git
+    - ndlib
+    - linkpred
+    - infomap
+    - infomap==1.1.3
+    - python-igraph==0.7.1.post6
+    - leidenalg==0.7.0
+    - angel-cd==1.0.2
+    - wurlitzer
+    - dynetx
